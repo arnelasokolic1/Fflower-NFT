@@ -1,0 +1,37 @@
+{
+    "name": "Flower",
+    "description": "A white flower",
+    "image": "ipfs://bafybeif4ldc7zbeqqy53bwdrfbah3cskcpnehczzbctyjlnsswwkdj7gwq",
+    "attributes": [
+        {
+            "trait_type": "Colour",
+            "value": "White"
+        },
+        {
+            "trait_type": "Number of petals",
+            "value": 6,
+            "display_type": "number"
+        },
+        {
+            "trait_type": "Place of origin",
+            "value": "Mediterranen region, southern Europe and western Asia"
+        },
+        {
+            "trait_type": "Fragnance",
+            "value": "Strong and sweet scent"
+        },
+        {
+            "trait_type": "Bloom time",
+            "value": "Winter and early spring"
+        },
+        {
+            "trait_type": "Growth",
+            "value": "Both indoor and outdoor"
+        },
+        {
+            "trait_type": "Coolness Modifier",
+            "display_type": "boost_percentage",
+            "value": "5"
+        }
+    ]
+}
