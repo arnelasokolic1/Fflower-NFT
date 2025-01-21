@@ -1,4 +1,4 @@
-# Fflower-NFT
+# Flower-NFT
 
 ## Overview
 
